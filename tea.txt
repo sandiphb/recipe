@@ -3,3 +3,4 @@ take milk 2 cup
 take sugar 2 spoon
 Add ginger
 Add water
+Add cardamon powder
